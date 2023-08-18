@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main - takes a date and prints how many days are left in the year, taking
+ * main - prints how many days in the year
  * leap years into account
  * Return: 0
  */
@@ -13,7 +13,7 @@ int main(void)
 	int day;
 	int year;
 
-	month = 02;
+	month = 2;
 	day = 29;
 	year = 2000;
 
